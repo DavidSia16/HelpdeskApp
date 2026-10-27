@@ -30,6 +30,4 @@ O HelpdeskApp é uma aplicação voltada para o controle e acompanhamento de cha
 2. Clone este repositório ou faça o download dos arquivos no diretório raiz do seu servidor web (ex: `htdocs` ou `www`).
 3. Acesse o projeto através do seu navegador no endereço local correspondente (ex: `http://localhost/HelpdeskApp/index.php`).
 
-## Autor
 
-* **David Alves** ([@DavidSia16](https://github.com/DavidSia16))
